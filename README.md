@@ -22,4 +22,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 ## Acknowledgements
-Thanks to the Next.JS team who created a [course](https://nextjs.org/learn) for learning Next.js, it was a great learning experience. 
+Thanks to the Next.js team for creating a [course](https://nextjs.org/learn) for learning Next.js, it was a great learning experience. 
